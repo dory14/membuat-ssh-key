@@ -1,0 +1,9 @@
+membuat ssh key
+==============================
+masuk github --> profil ---> setting --> pilih SSH and GPG keys --> new ssh key
+
+masuk ke folder repo --> klik kanan git base here --> ketik perintah ssh-keygen -t rsa -b 4096 -C "alamat email yang kita gunakan pada github" -->ketk y dan enter->enter --> ketik cat ~/.ssh/id_rsa.pub
+
+copy key nya ke ssh key di github save
+
+masuk ke folder klik perintah init--> 
