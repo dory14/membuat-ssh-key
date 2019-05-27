@@ -6,4 +6,4 @@ masuk ke folder repo --> klik kanan git base here --> ketik perintah ssh-keygen 
 
 copy key nya ke ssh key di github save
 
-masuk ke folder klik perintah init--> 
+masuk ke folder klik perintah init--> ketik git add origin <alamat ssh di github> -->ketik git pull origin master --> add dan commit --> git push origin master
